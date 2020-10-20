@@ -17,5 +17,6 @@ public class java8to14 {
 		SimpleInterface funSimpleInterface = () -> System.out.println("람다식, 안녕하세요!");
 		
 		funSimpleInterface.action();
+		
 	}
 }
