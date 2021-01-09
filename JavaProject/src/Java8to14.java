@@ -3,7 +3,7 @@ import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
-public class java8to14 {
+public class Java8to14 {
 		
 	public static void main(String[] args) {
 		
