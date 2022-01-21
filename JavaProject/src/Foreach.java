@@ -32,5 +32,7 @@ public class Foreach {
 		System.out.println("=== java 1.8 Stream ===");
 		Stream<String> stream = stringList.stream();
 		stream.forEach(name -> System.out.println(name));
+
+
 	}
 }
