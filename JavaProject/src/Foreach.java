@@ -33,6 +33,5 @@ public class Foreach {
 		Stream<String> stream = stringList.stream();
 		stream.forEach(name -> System.out.println(name));
 
-
 	}
 }
